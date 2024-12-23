@@ -3,21 +3,21 @@
   <groupId>Chrome</groupId>
   <artifactId>Printemps2</artifactId>
   <versioning>
-    <lastUpdated>20241223200755</lastUpdated>
+    <lastUpdated>20241223204622</lastUpdated>
     <snapshot>
-      <timestamp>20241223.200755</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20241223.204622</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20241223.200755-1</value>
-        <updated>20241223200755</updated>
+        <value>0.0.1-20241223.204622-2</value>
+        <updated>20241223204622</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20241223.200755-1</value>
-        <updated>20241223200755</updated>
+        <value>0.0.1-20241223.204622-2</value>
+        <updated>20241223204622</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
