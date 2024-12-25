@@ -101,6 +101,21 @@
     <artifactId>mysql-connector-j</artifactId>
     <version>9.1.0</version>
 </dependency>
+  	<dependency>
+  		<groupId>Chrome</groupId>
+  		<artifactId>Chrome_Dev_Tools</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>Data_Driven</groupId>
+  		<artifactId>Excel</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>Frameworkboutiqueadd</groupId>
+  		<artifactId>Frameworkboutiqueadd</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
   
   <distributionManagement>
