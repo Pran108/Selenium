@@ -57,7 +57,7 @@ public class registration1 {
 		//make connection to database
 		String host  = "localhost";
 		String port = "3306";
-		Connection con = DriverManager.getConnection("jdbc:mysql://"+ host + ":" + port+ "/printemps", "root", "12345");
+Connection con = DriverManager.getConnection("jdbc:mysql://"+ host + ":" + port+ "/printemps", user, password);
 		
 		Statement a = con.createStatement();
 		ResultSet result = a.executeQuery("select * from registration where email = 'MIijic76MI@skrak1.com'");
