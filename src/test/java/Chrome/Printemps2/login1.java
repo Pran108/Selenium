@@ -124,7 +124,7 @@ public class login1 {
     // DataProvider to read login data from a JSON file
 	@DataProvider
 	public Object[][] getLoginDataFromJson() throws IOException {
-	    String filepath = "C:\\Users\\Pran\\eclipse-workspace\\Printemps2\\src\\test\\java\\Chrome\\Printemps2\\login2.json";
+	    String filepath = "src/test/java/Chrome/Printemps2/login2.json";
 		List<HashMap<String, String>> data =  getJsonDataToMap(filepath);
 	    Object[][] dataArray = new Object[data.size()][1];
 	    
